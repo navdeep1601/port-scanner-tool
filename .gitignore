@@ -1,0 +1,6 @@
+*.log
+scan_report_*
+/tmp/
+__pycache__/
+*.pyc
+.DS_Store
